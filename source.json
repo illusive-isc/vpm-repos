@@ -17,6 +17,7 @@
         "illusive-isc/AAOBlocker",
         "illusive-isc/RuruneOptimizer",
         "illusive-isc/ScaleAdjusterManager",
+        "illusive-isc/Maooptimizer",
     ],
     "packages":[]
 }
