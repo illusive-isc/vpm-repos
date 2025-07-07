@@ -18,6 +18,7 @@
         "illusive-isc/RuruneOptimizer",
         "illusive-isc/ScaleAdjusterManager",
         "illusive-isc/Maooptimizer",
+        "illusive-isc/RirikaOptimizer",
     ],
     "packages":[]
 }
