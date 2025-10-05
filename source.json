@@ -19,6 +19,7 @@
         "illusive-isc/ScaleAdjusterManager",
         "illusive-isc/Maooptimizer",
         "illusive-isc/RirikaOptimizer",
+        "illusive-isc/SplitMesh4BoneGroups",
     ],
     "packages":[]
 }
