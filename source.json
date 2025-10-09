@@ -20,6 +20,7 @@
         "illusive-isc/Maooptimizer",
         "illusive-isc/RirikaOptimizer",
         "illusive-isc/SplitMesh4BoneGroups",
+        "illusive-isc/fxLayerCleaner",
     ],
     "packages":[]
 }
