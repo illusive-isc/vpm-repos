@@ -19,6 +19,7 @@
         "illusive-isc/ScaleAdjusterManager",
         "illusive-isc/Maooptimizer",
         "illusive-isc/RirikaOptimizer",
+        "illusive-isc/MizukiOptimizer",
         "illusive-isc/SplitMesh4BoneGroups",
         "illusive-isc/fxLayerCleaner",
     ],
