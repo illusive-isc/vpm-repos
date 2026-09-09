@@ -1,6 +1,7 @@
 {
     "name": "illusive_isc",
     "id": "jp.illusive-isc.vpm",
+    "description": "illusive_isc の VPM パッケージ一覧 (ReFrame、各種オプティマイザーなど)",
     "url": "https://illusive-isc.github.io/vpm-repos/index.json",
     "author": {
         "name": "illusive_isc",
