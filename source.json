@@ -1,27 +1,31 @@
 {
-    "name":"illusive_isc",
-    "id":"jp.illusive-isc.vpm",
-    "url":"https://illusive-isc.github.io/vpm-repos/index.json",
-    "author":{
-        "name":"illusive_isc",
-        "url":"https://github.com/illusive-isc"
+    "name": "illusive_isc",
+    "id": "jp.illusive-isc.vpm",
+    "url": "https://illusive-isc.github.io/vpm-repos/index.json",
+    "author": {
+        "name": "illusive_isc",
+        "url": "https://github.com/illusive-isc"
     },
-    "infoLink":{
-        "url":"https://github.com/illusive-isc/vpm-repos",
-        "text":"View on GitHub"
+    "infoLink": {
+        "url": "https://github.com/illusive-isc/vpm-repos",
+        "text": "View on GitHub"
     },
-    "bannerUrl":"https://avatars.githubusercontent.com/u/154746527?v=4",
-    "githubRepos":[
-        "illusive-isc/SetUpBlendshapeSync",
-        "illusive-isc/EasyScreenShot",
+    "bannerUrl": "https://avatars.githubusercontent.com/u/154746527?v=4",
+    "excludeRepos": [],
+    "githubRepos": [
         "illusive-isc/AAOTemporarilyOff",
+        "illusive-isc/EasyScreenShot",
+        "illusive-isc/fxLayerCleaner",
+        "illusive-isc/Maooptimizer",
+        "illusive-isc/MizukiOptimizer",
+        "illusive-isc/ReFrameCore",
+        "illusive-isc/ReFrameForKaguya",
+        "illusive-isc/ReFrameForRurune",
+        "illusive-isc/RirikaOptimizer",
         "illusive-isc/RuruneOptimizer",
         "illusive-isc/ScaleAdjusterManager",
-        "illusive-isc/Maooptimizer",
-        "illusive-isc/RirikaOptimizer",
-        "illusive-isc/MizukiOptimizer",
-        "illusive-isc/SplitMesh4BoneGroups",
-        "illusive-isc/fxLayerCleaner",
+        "illusive-isc/SetUpBlendshapeSync",
+        "illusive-isc/SplitMesh4BoneGroups"
     ],
-    "packages":[]
+    "packages": []
 }
