@@ -12,16 +12,17 @@
         "text": "View on GitHub"
     },
     "bannerUrl": "https://avatars.githubusercontent.com/u/154746527?v=4",
-    "excludeRepos": [],
+    "excludeRepos": [
+        "illusive-isc/ReFrameCore",
+        "illusive-isc/ReFrameForKaguya",
+        "illusive-isc/ReFrameForRurune"
+    ],
     "githubRepos": [
         "illusive-isc/AAOTemporarilyOff",
         "illusive-isc/EasyScreenShot",
         "illusive-isc/fxLayerCleaner",
         "illusive-isc/Maooptimizer",
         "illusive-isc/MizukiOptimizer",
-        "illusive-isc/ReFrameCore",
-        "illusive-isc/ReFrameForKaguya",
-        "illusive-isc/ReFrameForRurune",
         "illusive-isc/RirikaOptimizer",
         "illusive-isc/RuruneOptimizer",
         "illusive-isc/ScaleAdjusterManager",
